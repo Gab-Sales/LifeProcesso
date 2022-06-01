@@ -26,7 +26,7 @@
     }
 
     #divBtnConsultar {
-        margin-top: 32px;
+        margin-top: 31px;
         margin-left: 10px;
     }
 
