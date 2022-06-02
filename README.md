@@ -6,7 +6,7 @@ Projeto para avaliação dos candidatos à vaga de desenvolvedor web.
 
 Para executar o projeto localmente você deve possuir:
 
-- PHP com o módulo _pdo_mysql_ ativo
+- PHP com o módulo _pdo_mysql_ sssativo
 
 
 ## Objetivo do candidato
