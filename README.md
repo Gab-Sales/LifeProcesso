@@ -16,7 +16,7 @@ Desenvolver, com base na estrutura dos dois relatórios existentes, um terceiro 
 Este relatório deve:
 
 * buscar na tabela _rastreamento_ os registros em que o veículo estiver acima de sua velocidade máxima cadastrada.
-* ter filtros de dados por placa do veículo, nome do funcionário e intervalo de data de ocorrência. 
+* ter filtros de dados por placa do veículo, nome do funasdsacionário e intervalo de data de ocorrência. 
 
 O relatório deve possuir as seguintes colunas:
 
